@@ -6,9 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MovingScene.unity
+    guid: 806bcbf153c26ed408b28ebf1441851f
+  - enabled: 1
     path: Assets/Scenes/BallScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
     path: Assets/Scenes/EndingScene.unity
     guid: 51d9f801b81c1d74eacfed1d750e007a
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: f65749df8d3da174088e14f05dba2e13, type: 2}
